@@ -1,2 +1,2 @@
 # CifraDeCesar
-Cifra de Cesar using Java Swing.
+Cifra de Cesar using Java.
